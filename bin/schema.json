@@ -1,0 +1,5 @@
+{
+    "type": "STRING",
+    "properties": {"__alwaysAllowNull":"true","__jsr310ConversionEnabled":"false"},
+    "schema": ""
+}
